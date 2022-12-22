@@ -3,7 +3,7 @@
 
 - 🌱 Actualmente estoy aprendiendo **Pandas y FastApi**
 
-- 💬 Ask me about **Python,Tkinter,Sql,Django**
+- 💬 Ask me about **Python,Tkinter,Sql,Django,Selenium,Beautifulsoup**
 
 - 📫 How to reach me **van.smeiter95@gmail.com**
 
