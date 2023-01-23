@@ -1,9 +1,9 @@
-<h1 align="center">Hola,mi nombre es Guillermo</h1>
+<h1 align="center">Hola, mi nombre es Guillermo</h1>
 <h3 align="center">Soy un Python developer con conocimientos en Frontend</h3>
 
 - 🌱 Actualmente estoy aprendiendo ** Javascript y FastApi**
 
-- 💬 Ask me about **Python,Tkinter,Sql,Django,Selenium,Beautifulsoup,Pandas**
+- 💬 Ask me about **Python, Tkinter, Sql, Django, Selenium, Beautifulsoup, Pandas**
 
 - 📫 How to reach me **info@guillermocolella.com**
 
